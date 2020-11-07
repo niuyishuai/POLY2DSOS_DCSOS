@@ -17,7 +17,7 @@ git clone https://github.com/niuyishuai/POLY2DSOS_DCSOS
 ## Citation
 
 ```
-@article{niu2018difference,
+@article{niu2018dsos_dcsos,
   title={On difference-of-sos and difference-of-convex-sos decompositions for polynomials},
   author={Niu, Yi-Shuai},
   journal={arXiv preprint arXiv:1803.09900},
